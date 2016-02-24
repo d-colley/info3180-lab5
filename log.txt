@@ -1,0 +1,548 @@
+Requirement already satisfied (use --upgrade to upgrade): matplotlib in /usr/lib/pymodules/python2.7
+Requirement already satisfied (use --upgrade to upgrade): numpy>=1.5 in /usr/lib/python2.7/dist-packages (from matplotlib)
+Requirement already satisfied (use --upgrade to upgrade): python-dateutil in /usr/lib/python2.7/dist-packages (from matplotlib)
+Downloading/unpacking tornado (from matplotlib)
+  Getting page https://pypi.python.org/simple/tornado/
+  URLs to search for versions for tornado (from matplotlib):
+  * https://pypi.python.org/simple/tornado/
+  Analyzing links from page https://pypi.python.org/simple/tornado/
+    Skipping https://pypi.python.org/packages/cp35/t/tornado/tornado-4.3-cp35-none-win32.whl#md5=beb80a37266b5be5b27ae4b14175efea (from https://pypi.python.org/simple/tornado/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp35/t/tornado/tornado-4.3-cp35-none-win_amd64.whl#md5=7adb2f6542204e56fad21e33318e18db (from https://pypi.python.org/simple/tornado/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp35/t/tornado/tornado-4.3b2-cp35-none-win32.whl#md5=74f2187fe5967de1b85e08f1d2c54e73 (from https://pypi.python.org/simple/tornado/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp35/t/tornado/tornado-4.3b2-cp35-none-win_amd64.whl#md5=b5d2f09d8913d9bf304b5259958cf994 (from https://pypi.python.org/simple/tornado/) because it is not compatible with this Python
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-0.2.tar.gz#md5=ac4e1a5821de93cd187ef3abd5bf480f (from https://pypi.python.org/simple/tornado/), version: 0.2
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-1.0.tar.gz#md5=5d87f25839af90a2ae5a862a40779e41 (from https://pypi.python.org/simple/tornado/), version: 1.0
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-1.1.1.tar.gz#md5=b68ec3957382e0f8b5a70ecc5155423c (from https://pypi.python.org/simple/tornado/), version: 1.1.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-1.1.tar.gz#md5=dd6914d09b258545bd138763c16c6c1f (from https://pypi.python.org/simple/tornado/), version: 1.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-1.2.1.tar.gz#md5=e2bfb4e0d97e79101dfb0832d76f9e2b (from https://pypi.python.org/simple/tornado/), version: 1.2.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-1.2.tar.gz#md5=268daf20ffa4faf61e5c8c7c760d44fd (from https://pypi.python.org/simple/tornado/), version: 1.2
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-2.0.tar.gz#md5=26ae11d3292d12e3588b10d737009ec7 (from https://pypi.python.org/simple/tornado/), version: 2.0
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-2.1.1.tar.gz#md5=3cfa12efec87a26e013128388e1e6aa7 (from https://pypi.python.org/simple/tornado/), version: 2.1.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-2.1.tar.gz#md5=641b4091db56ce2ad2d37ce9705ad325 (from https://pypi.python.org/simple/tornado/), version: 2.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-2.2.1.tar.gz#md5=ad8d943262bff57ef1b8f7b6d502ba04 (from https://pypi.python.org/simple/tornado/), version: 2.2.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-2.2.tar.gz#md5=0b2c9d822e213d7ea2b7ebebca357623 (from https://pypi.python.org/simple/tornado/), version: 2.2
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-2.3.tar.gz#md5=810c3ecd425924fbf0aa1fa040f93ad1 (from https://pypi.python.org/simple/tornado/), version: 2.3
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-2.4.1.tar.gz#md5=9b7146cbe7cce015e35856b592707b9b (from https://pypi.python.org/simple/tornado/), version: 2.4.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-2.4.tar.gz#md5=c738af97c31dd70f41f6726cf0968941 (from https://pypi.python.org/simple/tornado/), version: 2.4
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-3.0.1.tar.gz#md5=20423cb0c1ea7ee1e7a58983099969b2 (from https://pypi.python.org/simple/tornado/), version: 3.0.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-3.0.2.tar.gz#md5=b265b12c2612f83fc0d12b16130fe3e2 (from https://pypi.python.org/simple/tornado/), version: 3.0.2
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-3.0.tar.gz#md5=e01f9ae85838e8ed40d977b9ffc90884 (from https://pypi.python.org/simple/tornado/), version: 3.0
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-3.1.1.tar.gz#md5=901e4f24b9e840860f6095451aa75828 (from https://pypi.python.org/simple/tornado/), version: 3.1.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-3.1.tar.gz#md5=2348d626095c5675753287e9af0c321f (from https://pypi.python.org/simple/tornado/), version: 3.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-3.2.1.tar.gz#md5=d11986d4639aa9f71a31da1ebf40dc19 (from https://pypi.python.org/simple/tornado/), version: 3.2.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-3.2.2.tar.gz#md5=bf37082723ace27f508400d65cf111fe (from https://pypi.python.org/simple/tornado/), version: 3.2.2
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-3.2.tar.gz#md5=bd83cee5f1a5c5e139e87996d00b251b (from https://pypi.python.org/simple/tornado/), version: 3.2
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-4.0.1.tar.gz#md5=2b28e37b95aa653369a31a440242a24a (from https://pypi.python.org/simple/tornado/), version: 4.0.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-4.0.2.tar.gz#md5=985c0e704b765c33a6193d49d1935588 (from https://pypi.python.org/simple/tornado/), version: 4.0.2
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-4.0.tar.gz#md5=8f4ccc60340b9cd3ae7af6ea7a1e4d0f (from https://pypi.python.org/simple/tornado/), version: 4.0
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-4.1.tar.gz#md5=a06ea343375f2247344257ef691641f9 (from https://pypi.python.org/simple/tornado/), version: 4.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-4.1b2.tar.gz#md5=c2aea149f627f36be4df6e2fc37d3399 (from https://pypi.python.org/simple/tornado/), version: 4.1b2
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-4.2.1.tar.gz#md5=d523204389cfb70121bb69709f551b20 (from https://pypi.python.org/simple/tornado/), version: 4.2.1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-4.2.tar.gz#md5=c548d7b77a11d523c3d7255bd7fd6df8 (from https://pypi.python.org/simple/tornado/), version: 4.2
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-4.2b1.tar.gz#md5=6729264a76b2de11cb8bee629e57c67e (from https://pypi.python.org/simple/tornado/), version: 4.2b1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-4.3.tar.gz#md5=d13a99dc0b60ba69f5f8ec1235e5b232 (from https://pypi.python.org/simple/tornado/), version: 4.3
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-4.3b1.tar.gz#md5=801e3c3a1875f93fe2f7b38ba3367145 (from https://pypi.python.org/simple/tornado/), version: 4.3b1
+    Found link https://pypi.python.org/packages/source/t/tornado/tornado-4.3b2.tar.gz#md5=bceb782d5184513a651741da824b9d9c (from https://pypi.python.org/simple/tornado/), version: 4.3b2
+  Ignoring link https://pypi.python.org/packages/source/t/tornado/tornado-4.1b2.tar.gz#md5=c2aea149f627f36be4df6e2fc37d3399 (from https://pypi.python.org/simple/tornado/), version 4.1b2 is a pre-release (use --pre to allow).
+  Ignoring link https://pypi.python.org/packages/source/t/tornado/tornado-4.2b1.tar.gz#md5=6729264a76b2de11cb8bee629e57c67e (from https://pypi.python.org/simple/tornado/), version 4.2b1 is a pre-release (use --pre to allow).
+  Ignoring link https://pypi.python.org/packages/source/t/tornado/tornado-4.3b1.tar.gz#md5=801e3c3a1875f93fe2f7b38ba3367145 (from https://pypi.python.org/simple/tornado/), version 4.3b1 is a pre-release (use --pre to allow).
+  Ignoring link https://pypi.python.org/packages/source/t/tornado/tornado-4.3b2.tar.gz#md5=bceb782d5184513a651741da824b9d9c (from https://pypi.python.org/simple/tornado/), version 4.3b2 is a pre-release (use --pre to allow).
+  Using version 4.3 (newest of versions: 4.3, 4.2.1, 4.2, 4.1, 4.0.2, 4.0.1, 4.0, 3.2.2, 3.2.1, 3.2, 3.1.1, 3.1, 3.0.2, 3.0.1, 3.0, 2.4.1, 2.4, 2.3, 2.2.1, 2.2, 2.1.1, 2.1, 2.0, 1.2.1, 1.2, 1.1.1, 1.1, 1.0, 0.2)
+  Downloading from URL https://pypi.python.org/packages/source/t/tornado/tornado-4.3.tar.gz#md5=d13a99dc0b60ba69f5f8ec1235e5b232 (from https://pypi.python.org/simple/tornado/)
+  Running setup.py (path:/tmp/pip_build_ubuntu/tornado/setup.py) egg_info for package tornado
+    running egg_info
+    creating pip-egg-info/tornado.egg-info
+    writing requirements to pip-egg-info/tornado.egg-info/requires.txt
+    writing pip-egg-info/tornado.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/tornado.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/tornado.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/tornado.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    
+    reading manifest file 'pip-egg-info/tornado.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    no previously-included directories found matching 'docs/build'
+    warning: no files found matching 'tornado/test/README'
+    writing manifest file 'pip-egg-info/tornado.egg-info/SOURCES.txt'
+  Source in /tmp/pip_build_ubuntu/tornado has version 4.3, which satisfies requirement tornado (from matplotlib)
+Requirement already satisfied (use --upgrade to upgrade): pyparsing>=1.5.6 in /usr/lib/python2.7/dist-packages (from matplotlib)
+Downloading/unpacking nose (from matplotlib)
+  Getting page https://pypi.python.org/simple/nose/
+  URLs to search for versions for nose (from matplotlib):
+  * https://pypi.python.org/simple/nose/
+  Analyzing links from page https://pypi.python.org/simple/nose/
+    Skipping link https://pypi.python.org/packages/3.1/n/nose/nose-1.0.0-py3.1.egg#md5=fc89b2f4f06fb8f4a1623d8fa3601702 (from https://pypi.python.org/simple/nose/); unknown archive format: .egg
+    Found link https://pypi.python.org/packages/py2/n/nose/nose-1.3.4-py2-none-any.whl#md5=fd999cc6fca635efa6021ebfd2c4eb4e (from https://pypi.python.org/simple/nose/), version: 1.3.4
+    Found link https://pypi.python.org/packages/py2/n/nose/nose-1.3.6-py2-none-any.whl#md5=145e15a5672342f0ec349077216bd6cf (from https://pypi.python.org/simple/nose/), version: 1.3.6
+    Found link https://pypi.python.org/packages/py2/n/nose/nose-1.3.7-py2-none-any.whl#md5=2a10ed5020bd4785a91f96893204f65b (from https://pypi.python.org/simple/nose/), version: 1.3.7
+    Skipping https://pypi.python.org/packages/py3/n/nose/nose-1.3.4-py3-none-any.whl#md5=c17bb3302bacff93a09894be4e267b1c (from https://pypi.python.org/simple/nose/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/py3/n/nose/nose-1.3.6-py3-none-any.whl#md5=a7a88a94cab2bb4949a85aff2c216270 (from https://pypi.python.org/simple/nose/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/py3/n/nose/nose-1.3.7-py3-none-any.whl#md5=3135984cc9cfcbe5d9c46e166d6743b0 (from https://pypi.python.org/simple/nose/) because it is not compatible with this Python
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.0.0.tar.gz#md5=47a4784c817afa6ef11a505b574584ed (from https://pypi.python.org/simple/nose/), version: 1.0.0
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.1.0.tar.gz#md5=629167a34d4f6dd4dfaa4de8ee323c93 (from https://pypi.python.org/simple/nose/), version: 1.1.0
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.1.1.tar.gz#md5=dc3025249c7abd27ac9020ec13b40db9 (from https://pypi.python.org/simple/nose/), version: 1.1.1
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.1.2.tar.gz#md5=144f237b615e23f21f6a50b2183aa817 (from https://pypi.python.org/simple/nose/), version: 1.1.2
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.2.0.tar.gz#md5=0db7fcfa8aefc5a461e90a1fc193863c (from https://pypi.python.org/simple/nose/), version: 1.2.0
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.2.1.tar.gz#md5=735e3f1ce8b07e70ee1b742a8a53585a (from https://pypi.python.org/simple/nose/), version: 1.2.1
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.3.0.tar.gz#md5=95d6d32b9d6b029c3c65674bd9e7eabe (from https://pypi.python.org/simple/nose/), version: 1.3.0
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.3.1.tar.gz#md5=672398801ddf5ba745c55c6eed79c5aa (from https://pypi.python.org/simple/nose/), version: 1.3.1
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.3.2.tar.gz#md5=00f33853c494cc7aee01b61cc4a91348 (from https://pypi.python.org/simple/nose/), version: 1.3.2
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.3.3.tar.gz#md5=42776061bf5206670cb819176dc78654 (from https://pypi.python.org/simple/nose/), version: 1.3.3
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.3.4.tar.gz#md5=6ed7169887580ddc9a8e16048d38274d (from https://pypi.python.org/simple/nose/), version: 1.3.4
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.3.6.tar.gz#md5=0ca546d81ca8309080fc80cb389e7a16 (from https://pypi.python.org/simple/nose/), version: 1.3.6
+    Found link https://pypi.python.org/packages/source/n/nose/nose-1.3.7.tar.gz#md5=4d3ad0ff07b61373d2cefc89c5d0b20b (from https://pypi.python.org/simple/nose/), version: 1.3.7
+  Using version 1.3.7 (newest of versions: 1.3.7, 1.3.7, 1.3.6, 1.3.6, 1.3.4, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.2, 1.1.1, 1.1.0, 1.0.0)
+  Downloading from URL https://pypi.python.org/packages/py2/n/nose/nose-1.3.7-py2-none-any.whl#md5=2a10ed5020bd4785a91f96893204f65b (from https://pypi.python.org/simple/nose/)
+Downloading/unpacking backports.ssl-match-hostname (from tornado->matplotlib)
+  Getting page https://pypi.python.org/simple/backports.ssl_match_hostname/
+  URLs to search for versions for backports.ssl-match-hostname (from tornado->matplotlib):
+  * https://pypi.python.org/simple/backports.ssl_match_hostname/
+  Analyzing links from page https://pypi.python.org/simple/backports.ssl-match-hostname/
+    Found link https://pypi.python.org/packages/source/b/backports.ssl_match_hostname/backports.ssl_match_hostname-3.2a3.tar.gz#md5=42adbd3c15d78eb6b7b7c654ec5c717c (from https://pypi.python.org/simple/backports.ssl-match-hostname/), version: 3.2a3
+    Found link https://pypi.python.org/packages/source/b/backports.ssl_match_hostname/backports.ssl_match_hostname-3.4.0.1.tar.gz#md5=a7402a991cce1e00c30df0142d511458 (from https://pypi.python.org/simple/backports.ssl-match-hostname/), version: 3.4.0.1
+    Found link https://pypi.python.org/packages/source/b/backports.ssl_match_hostname/backports.ssl_match_hostname-3.4.0.2.tar.gz#md5=788214f20214c64631f0859dc79f23c6 (from https://pypi.python.org/simple/backports.ssl-match-hostname/), version: 3.4.0.2
+    Found link https://pypi.python.org/packages/source/b/backports.ssl_match_hostname/backports.ssl_match_hostname-3.5.0.1.tar.gz#md5=c03fc5e2c7b3da46b81acf5cbacfe1e6 (from https://pypi.python.org/simple/backports.ssl-match-hostname/), version: 3.5.0.1
+  Ignoring link https://pypi.python.org/packages/source/b/backports.ssl_match_hostname/backports.ssl_match_hostname-3.2a3.tar.gz#md5=42adbd3c15d78eb6b7b7c654ec5c717c (from https://pypi.python.org/simple/backports.ssl-match-hostname/), version 3.2a3 is a pre-release (use --pre to allow).
+  Using version 3.5.0.1 (newest of versions: 3.5.0.1, 3.4.0.2, 3.4.0.1)
+  Downloading backports.ssl_match_hostname-3.5.0.1.tar.gz
+  Downloading from URL https://pypi.python.org/packages/source/b/backports.ssl_match_hostname/backports.ssl_match_hostname-3.5.0.1.tar.gz#md5=c03fc5e2c7b3da46b81acf5cbacfe1e6 (from https://pypi.python.org/simple/backports.ssl-match-hostname/)
+  Running setup.py (path:/tmp/pip_build_ubuntu/backports.ssl-match-hostname/setup.py) egg_info for package backports.ssl-match-hostname
+    running egg_info
+    creating pip-egg-info/backports.ssl_match_hostname.egg-info
+    writing pip-egg-info/backports.ssl_match_hostname.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/backports.ssl_match_hostname.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/backports.ssl_match_hostname.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/backports.ssl_match_hostname.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    
+    reading manifest file 'pip-egg-info/backports.ssl_match_hostname.egg-info/SOURCES.txt'
+    writing manifest file 'pip-egg-info/backports.ssl_match_hostname.egg-info/SOURCES.txt'
+  Source in /tmp/pip_build_ubuntu/backports.ssl-match-hostname has version 3.5.0.1, which satisfies requirement backports.ssl-match-hostname (from tornado->matplotlib)
+Downloading/unpacking singledispatch (from tornado->matplotlib)
+  Getting page https://pypi.python.org/simple/singledispatch/
+  URLs to search for versions for singledispatch (from tornado->matplotlib):
+  * https://pypi.python.org/simple/singledispatch/
+  Analyzing links from page https://pypi.python.org/simple/singledispatch/
+    Skipping https://pypi.python.org/packages/3.4/s/singledispatch/singledispatch-3.4.0.2-py3-none-any.whl#md5=faa3734b6919c5b33c4703bf192d1627 (from https://pypi.python.org/simple/singledispatch/) because it is not compatible with this Python
+    Found link https://pypi.python.org/packages/3.4/s/singledispatch/singledispatch-3.4.0.3-py2.py3-none-any.whl#md5=d633bac187d681455ab065c645be845d (from https://pypi.python.org/simple/singledispatch/), version: 3.4.0.3
+    Found link https://pypi.python.org/packages/source/s/singledispatch/singledispatch-3.4.0.0.tar.gz#md5=b6d2bb9a725b76e231e11c75a974ce34 (from https://pypi.python.org/simple/singledispatch/), version: 3.4.0.0
+    Found link https://pypi.python.org/packages/source/s/singledispatch/singledispatch-3.4.0.1.tar.gz#md5=807edf3d97d1b3dd39ef4f2d992ae08b (from https://pypi.python.org/simple/singledispatch/), version: 3.4.0.1
+    Found link https://pypi.python.org/packages/source/s/singledispatch/singledispatch-3.4.0.2.tar.gz#md5=a8e91e6953767614fabb6b6e974fea0e (from https://pypi.python.org/simple/singledispatch/), version: 3.4.0.2
+    Found link https://pypi.python.org/packages/source/s/singledispatch/singledispatch-3.4.0.3.tar.gz#md5=af2fc6a3d6cc5a02d0bf54d909785fcb (from https://pypi.python.org/simple/singledispatch/), version: 3.4.0.3
+  Using version 3.4.0.3 (newest of versions: 3.4.0.3, 3.4.0.3, 3.4.0.2, 3.4.0.1, 3.4.0.0)
+  Downloading singledispatch-3.4.0.3-py2.py3-none-any.whl
+  Downloading from URL https://pypi.python.org/packages/3.4/s/singledispatch/singledispatch-3.4.0.3-py2.py3-none-any.whl#md5=d633bac187d681455ab065c645be845d (from https://pypi.python.org/simple/singledispatch/)
+Downloading/unpacking certifi (from tornado->matplotlib)
+  Getting page https://pypi.python.org/simple/certifi/
+  URLs to search for versions for certifi (from tornado->matplotlib):
+  * https://pypi.python.org/simple/certifi/
+  Analyzing links from page https://pypi.python.org/simple/certifi/
+    Found link https://pypi.python.org/packages/2.7/c/certifi/certifi-1.0.1-py2.py3-none-any.whl#md5=7a7f27120a39ab0be1bfb6884c6e9ebf (from https://pypi.python.org/simple/certifi/), version: 1.0.1
+    Found link https://pypi.python.org/packages/2.7/c/certifi/certifi-2015.04.28-py2.py3-none-any.whl#md5=4b0d6599c8297becffeb369c0b3ef47b (from https://pypi.python.org/simple/certifi/), version: 2015.04.28
+    Found link https://pypi.python.org/packages/2.7/c/certifi/certifi-2015.11.20-py2.py3-none-any.whl#md5=6206cd9ca559c1d7390da307fe96f661 (from https://pypi.python.org/simple/certifi/), version: 2015.11.20
+    Found link https://pypi.python.org/packages/2.7/c/certifi/certifi-2015.11.20.1-py2.py3-none-any.whl#md5=144eb8a498f1b98c372eebc6f9a76bc6 (from https://pypi.python.org/simple/certifi/), version: 2015.11.20.1
+    Found link https://pypi.python.org/packages/2.7/c/certifi/certifi-2015.9.6-py2.py3-none-any.whl#md5=353670355bc7b0b87b99d101d693aff0 (from https://pypi.python.org/simple/certifi/), version: 2015.9.6
+    Found link https://pypi.python.org/packages/2.7/c/certifi/certifi-2015.9.6.1-py2.py3-none-any.whl#md5=0a6bc6cbbadcbc8e4ada2979294923d9 (from https://pypi.python.org/simple/certifi/), version: 2015.9.6.1
+    Found link https://pypi.python.org/packages/2.7/c/certifi/certifi-2015.9.6.2-py2.py3-none-any.whl#md5=512f112ac0d3cb1efe88786e00fde931 (from https://pypi.python.org/simple/certifi/), version: 2015.9.6.2
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-0.0.1.tar.gz#md5=bad50249a8e0a2e5f7858e6322cf06d2 (from https://pypi.python.org/simple/certifi/), version: 0.0.1
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-0.0.2.tar.gz#md5=c91ab8b034966f88f481ef8f6e0c07e1 (from https://pypi.python.org/simple/certifi/), version: 0.0.2
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-0.0.3.tar.gz#md5=88aa24faf5d46c2d8426450b38330f2a (from https://pypi.python.org/simple/certifi/), version: 0.0.3
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-0.0.4.tar.gz#md5=f79d78ea1404dc6ad607a2f035e25d3f (from https://pypi.python.org/simple/certifi/), version: 0.0.4
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-0.0.5.tar.gz#md5=0d5005feb495e83f78e0fb1b3f2ec70f (from https://pypi.python.org/simple/certifi/), version: 0.0.5
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-0.0.6.tar.gz#md5=e5238cfffd61be7fef5b5db4aa29f818 (from https://pypi.python.org/simple/certifi/), version: 0.0.6
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-0.0.7.tar.gz#md5=86eee1cacdf8167d7ea7ea3572d233d5 (from https://pypi.python.org/simple/certifi/), version: 0.0.7
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-0.0.8.tar.gz#md5=dc5f5e7f0b5fc08d27654b17daa6ecec (from https://pypi.python.org/simple/certifi/), version: 0.0.8
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-1.0.0.tar.gz#md5=1ef0ac75aabb7bfd4ab6261a55f08493 (from https://pypi.python.org/simple/certifi/), version: 1.0.0
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-1.0.1.tar.gz#md5=45f5cb94b8af9e1df0f9450a8f61b790 (from https://pypi.python.org/simple/certifi/), version: 1.0.1
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-14.05.14.tar.gz#md5=315ea4e50673a16ab047099f816fd32a (from https://pypi.python.org/simple/certifi/), version: 14.05.14
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-2015.04.28.tar.gz#md5=12c7c3a063b2ff97a0f8291d8de41e8c (from https://pypi.python.org/simple/certifi/), version: 2015.04.28
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-2015.11.20.1.tar.gz#md5=e04b512009401603f1485380ac879cf5 (from https://pypi.python.org/simple/certifi/), version: 2015.11.20.1
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-2015.11.20.tar.gz#md5=25134646672c695c1ff1593c2dd75d08 (from https://pypi.python.org/simple/certifi/), version: 2015.11.20
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-2015.9.6.1.tar.gz#md5=4653a5fe35985fd3b5d6a19c88f50135 (from https://pypi.python.org/simple/certifi/), version: 2015.9.6.1
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-2015.9.6.2.tar.gz#md5=323884431b31aa0eccb5f8086d92196b (from https://pypi.python.org/simple/certifi/), version: 2015.9.6.2
+    Found link https://pypi.python.org/packages/source/c/certifi/certifi-2015.9.6.tar.gz#md5=433489b1ccdd1ffe91500866fea7042d (from https://pypi.python.org/simple/certifi/), version: 2015.9.6
+  Using version 2015.11.20.1 (newest of versions: 2015.11.20.1, 2015.11.20.1, 2015.11.20, 2015.11.20, 2015.9.6.2, 2015.9.6.2, 2015.9.6.1, 2015.9.6.1, 2015.9.6, 2015.9.6, 2015.04.28, 2015.04.28, 14.05.14, 1.0.1, 1.0.1, 1.0.0, 0.0.8, 0.0.7, 0.0.6, 0.0.5, 0.0.4, 0.0.3, 0.0.2, 0.0.1)
+  Downloading from URL https://pypi.python.org/packages/2.7/c/certifi/certifi-2015.11.20.1-py2.py3-none-any.whl#md5=144eb8a498f1b98c372eebc6f9a76bc6 (from https://pypi.python.org/simple/certifi/)
+Downloading/unpacking backports-abc>=0.4 (from tornado->matplotlib)
+  Getting page https://pypi.python.org/simple/backports_abc/
+  URLs to search for versions for backports-abc>=0.4 (from tornado->matplotlib):
+  * https://pypi.python.org/simple/backports_abc/
+  Analyzing links from page https://pypi.python.org/simple/backports-abc/
+    Found link https://pypi.python.org/packages/3.4/b/backports_abc/backports_abc-0.4-py2.py3-none-any.whl#md5=c36901a538881e8113dfd0feca2d83bc (from https://pypi.python.org/simple/backports-abc/), version: 0.4
+    Found link https://pypi.python.org/packages/source/b/backports_abc/backports_abc-0.1.tar.gz#md5=6ac4355dc69213f2fd6c5348b6076420 (from https://pypi.python.org/simple/backports-abc/), version: 0.1
+    Found link https://pypi.python.org/packages/source/b/backports_abc/backports_abc-0.3.tar.gz#md5=bbd286a88416d3eb7473aa070e95ce66 (from https://pypi.python.org/simple/backports-abc/), version: 0.3
+    Found link https://pypi.python.org/packages/source/b/backports_abc/backports_abc-0.4.tar.gz#md5=0b65a216ce9dc9c1a7e20a729dd7c05b (from https://pypi.python.org/simple/backports-abc/), version: 0.4
+  Ignoring link https://pypi.python.org/packages/source/b/backports_abc/backports_abc-0.1.tar.gz#md5=6ac4355dc69213f2fd6c5348b6076420 (from https://pypi.python.org/simple/backports-abc/), version 0.1 doesn't match >=0.4
+  Ignoring link https://pypi.python.org/packages/source/b/backports_abc/backports_abc-0.3.tar.gz#md5=bbd286a88416d3eb7473aa070e95ce66 (from https://pypi.python.org/simple/backports-abc/), version 0.3 doesn't match >=0.4
+  Using version 0.4 (newest of versions: 0.4, 0.4)
+  Downloading backports_abc-0.4-py2.py3-none-any.whl
+  Downloading from URL https://pypi.python.org/packages/3.4/b/backports_abc/backports_abc-0.4-py2.py3-none-any.whl#md5=c36901a538881e8113dfd0feca2d83bc (from https://pypi.python.org/simple/backports-abc/)
+Requirement already satisfied (use --upgrade to upgrade): six in /usr/lib/python2.7/dist-packages (from singledispatch->tornado->matplotlib)
+Installing collected packages: tornado, nose, backports.ssl-match-hostname, singledispatch, certifi, backports-abc
+  Running setup.py install for tornado
+    Running command /usr/bin/python -c "import setuptools, tokenize;__file__='/tmp/pip_build_ubuntu/tornado/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-AQ_ciP-record/install-record.txt --single-version-externally-managed --compile
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-x86_64-2.7
+    creating build/lib.linux-x86_64-2.7/tornado
+    copying tornado/curl_httpclient.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/httpclient.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/util.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/http1connection.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/process.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/tcpclient.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/escape.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/__init__.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/stack_context.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/concurrent.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/gen.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/testing.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/_locale_data.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/template.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/log.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/httpserver.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/wsgi.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/locale.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/web.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/netutil.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/websocket.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/options.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/httputil.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/locks.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/ioloop.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/iostream.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/tcpserver.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/autoreload.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/auth.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/simple_httpclient.py -> build/lib.linux-x86_64-2.7/tornado
+    copying tornado/queues.py -> build/lib.linux-x86_64-2.7/tornado
+    creating build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/curl_httpclient_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/process_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/ioloop_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/util.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/twisted_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/concurrent_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/template_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/stack_context_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/simple_httpclient_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/options_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/httputil_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/__init__.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/testing_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/asyncio_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/queues_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/escape_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/util_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/httpserver_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/locks_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/import_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/httpclient_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/tcpclient_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/runtests.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/netutil_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/locale_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/gen_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/tcpserver_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/resolve_test_helper.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/wsgi_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/auth_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/log_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/__main__.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/web_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/websocket_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/iostream_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+    creating build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/posix.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/caresresolver.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/twisted.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/__init__.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/asyncio.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/auto.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/common.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/interface.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/epoll.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/kqueue.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/select.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    copying tornado/platform/windows.py -> build/lib.linux-x86_64-2.7/tornado/platform
+    creating build/lib.linux-x86_64-2.7/tornado/test/csv_translations
+    copying tornado/test/csv_translations/fr_FR.csv -> build/lib.linux-x86_64-2.7/tornado/test/csv_translations
+    creating build/lib.linux-x86_64-2.7/tornado/test/gettext_translations
+    creating build/lib.linux-x86_64-2.7/tornado/test/gettext_translations/fr_FR
+    creating build/lib.linux-x86_64-2.7/tornado/test/gettext_translations/fr_FR/LC_MESSAGES
+    copying tornado/test/gettext_translations/fr_FR/LC_MESSAGES/tornado_test.mo -> build/lib.linux-x86_64-2.7/tornado/test/gettext_translations/fr_FR/LC_MESSAGES
+    copying tornado/test/gettext_translations/fr_FR/LC_MESSAGES/tornado_test.po -> build/lib.linux-x86_64-2.7/tornado/test/gettext_translations/fr_FR/LC_MESSAGES
+    copying tornado/test/options_test.cfg -> build/lib.linux-x86_64-2.7/tornado/test
+    creating build/lib.linux-x86_64-2.7/tornado/test/static
+    copying tornado/test/static/robots.txt -> build/lib.linux-x86_64-2.7/tornado/test/static
+    copying tornado/test/static/sample.xml -> build/lib.linux-x86_64-2.7/tornado/test/static
+    copying tornado/test/static/sample.xml.gz -> build/lib.linux-x86_64-2.7/tornado/test/static
+    copying tornado/test/static/sample.xml.bz2 -> build/lib.linux-x86_64-2.7/tornado/test/static
+    creating build/lib.linux-x86_64-2.7/tornado/test/static/dir
+    copying tornado/test/static/dir/index.html -> build/lib.linux-x86_64-2.7/tornado/test/static/dir
+    copying tornado/test/static_foo.txt -> build/lib.linux-x86_64-2.7/tornado/test
+    creating build/lib.linux-x86_64-2.7/tornado/test/templates
+    copying tornado/test/templates/utf8.html -> build/lib.linux-x86_64-2.7/tornado/test/templates
+    copying tornado/test/test.crt -> build/lib.linux-x86_64-2.7/tornado/test
+    copying tornado/test/test.key -> build/lib.linux-x86_64-2.7/tornado/test
+    running build_ext
+    building 'tornado.speedups' extension
+    creating build/temp.linux-x86_64-2.7
+    creating build/temp.linux-x86_64-2.7/tornado
+    x86_64-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c tornado/speedups.c -o build/temp.linux-x86_64-2.7/tornado/speedups.o
+    x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security build/temp.linux-x86_64-2.7/tornado/speedups.o -o build/lib.linux-x86_64-2.7/tornado/speedups.so
+    running install_lib
+    creating /usr/local/lib/python2.7/dist-packages/tornado
+    error: could not create '/usr/local/lib/python2.7/dist-packages/tornado': Permission denied
+    Complete output from command /usr/bin/python -c "import setuptools, tokenize;__file__='/tmp/pip_build_ubuntu/tornado/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-AQ_ciP-record/install-record.txt --single-version-externally-managed --compile:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-x86_64-2.7
+
+creating build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/curl_httpclient.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/httpclient.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/util.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/http1connection.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/process.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/tcpclient.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/escape.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/__init__.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/stack_context.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/concurrent.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/gen.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/testing.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/_locale_data.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/template.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/log.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/httpserver.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/wsgi.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/locale.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/web.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/netutil.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/websocket.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/options.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/httputil.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/locks.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/ioloop.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/iostream.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/tcpserver.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/autoreload.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/auth.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/simple_httpclient.py -> build/lib.linux-x86_64-2.7/tornado
+
+copying tornado/queues.py -> build/lib.linux-x86_64-2.7/tornado
+
+creating build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/curl_httpclient_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/process_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/ioloop_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/util.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/twisted_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/concurrent_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/template_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/stack_context_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/simple_httpclient_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/options_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/httputil_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/__init__.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/testing_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/asyncio_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/queues_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/escape_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/util_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/httpserver_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/locks_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/import_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/httpclient_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/tcpclient_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/runtests.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/netutil_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/locale_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/gen_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/tcpserver_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/resolve_test_helper.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/wsgi_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/auth_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/log_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/__main__.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/web_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/websocket_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/iostream_test.py -> build/lib.linux-x86_64-2.7/tornado/test
+
+creating build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/posix.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/caresresolver.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/twisted.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/__init__.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/asyncio.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/auto.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/common.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/interface.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/epoll.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/kqueue.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/select.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+copying tornado/platform/windows.py -> build/lib.linux-x86_64-2.7/tornado/platform
+
+creating build/lib.linux-x86_64-2.7/tornado/test/csv_translations
+
+copying tornado/test/csv_translations/fr_FR.csv -> build/lib.linux-x86_64-2.7/tornado/test/csv_translations
+
+creating build/lib.linux-x86_64-2.7/tornado/test/gettext_translations
+
+creating build/lib.linux-x86_64-2.7/tornado/test/gettext_translations/fr_FR
+
+creating build/lib.linux-x86_64-2.7/tornado/test/gettext_translations/fr_FR/LC_MESSAGES
+
+copying tornado/test/gettext_translations/fr_FR/LC_MESSAGES/tornado_test.mo -> build/lib.linux-x86_64-2.7/tornado/test/gettext_translations/fr_FR/LC_MESSAGES
+
+copying tornado/test/gettext_translations/fr_FR/LC_MESSAGES/tornado_test.po -> build/lib.linux-x86_64-2.7/tornado/test/gettext_translations/fr_FR/LC_MESSAGES
+
+copying tornado/test/options_test.cfg -> build/lib.linux-x86_64-2.7/tornado/test
+
+creating build/lib.linux-x86_64-2.7/tornado/test/static
+
+copying tornado/test/static/robots.txt -> build/lib.linux-x86_64-2.7/tornado/test/static
+
+copying tornado/test/static/sample.xml -> build/lib.linux-x86_64-2.7/tornado/test/static
+
+copying tornado/test/static/sample.xml.gz -> build/lib.linux-x86_64-2.7/tornado/test/static
+
+copying tornado/test/static/sample.xml.bz2 -> build/lib.linux-x86_64-2.7/tornado/test/static
+
+creating build/lib.linux-x86_64-2.7/tornado/test/static/dir
+
+copying tornado/test/static/dir/index.html -> build/lib.linux-x86_64-2.7/tornado/test/static/dir
+
+copying tornado/test/static_foo.txt -> build/lib.linux-x86_64-2.7/tornado/test
+
+creating build/lib.linux-x86_64-2.7/tornado/test/templates
+
+copying tornado/test/templates/utf8.html -> build/lib.linux-x86_64-2.7/tornado/test/templates
+
+copying tornado/test/test.crt -> build/lib.linux-x86_64-2.7/tornado/test
+
+copying tornado/test/test.key -> build/lib.linux-x86_64-2.7/tornado/test
+
+running build_ext
+
+building 'tornado.speedups' extension
+
+creating build/temp.linux-x86_64-2.7
+
+creating build/temp.linux-x86_64-2.7/tornado
+
+x86_64-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c tornado/speedups.c -o build/temp.linux-x86_64-2.7/tornado/speedups.o
+
+x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security build/temp.linux-x86_64-2.7/tornado/speedups.o -o build/lib.linux-x86_64-2.7/tornado/speedups.so
+
+running install_lib
+
+creating /usr/local/lib/python2.7/dist-packages/tornado
+
+error: could not create '/usr/local/lib/python2.7/dist-packages/tornado': Permission denied
+
+----------------------------------------
+Cleaning up...
+  Removing temporary dir /tmp/pip_build_ubuntu...
+Command /usr/bin/python -c "import setuptools, tokenize;__file__='/tmp/pip_build_ubuntu/tornado/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-AQ_ciP-record/install-record.txt --single-version-externally-managed --compile failed with error code 1 in /tmp/pip_build_ubuntu/tornado
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 122, in main
+    status = self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 283, in run
+    requirement_set.install(install_options, global_options, root=options.root_path)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 1436, in install
+    requirement.install(install_options, global_options, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 707, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.7/dist-packages/pip/util.py", line 715, in call_subprocess
+    % (command_desc, proc.returncode, cwd))
+InstallationError: Command /usr/bin/python -c "import setuptools, tokenize;__file__='/tmp/pip_build_ubuntu/tornado/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-AQ_ciP-record/install-record.txt --single-version-externally-managed --compile failed with error code 1 in /tmp/pip_build_ubuntu/tornado
+
+Storing debug log for failure in /home/ubuntu/.pip/pip.log
